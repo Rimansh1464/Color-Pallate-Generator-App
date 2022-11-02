@@ -1,16 +1,8 @@
 # color_genertor_app
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Uploading WhatsApp Video 2022-11-02 at 11.02.19 AM.mp4…
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2022-11-02 at 11 23 27 AM](https://user-images.githubusercontent.com/111416514/199409301-9e30b099-1794-4c95-8ecc-4fb470369f67.jpeg)
+![WhatsApp Image 2022-11-02 at 11 23 28 AM](https://user-images.githubusercontent.com/111416514/199409312-290a1b1b-8a7a-4349-bd13-33eb76ad7f01.jpeg)
